@@ -3,5 +3,5 @@ In this project, I compared each PRS tool, including BayesR (new MegaPRS), Elast
 
 ## About BayesR
 
-It is a user-friendly PRS tool integrated within the LDAK package.   
+It is a user-friendly PRS tool integrated into the LDAK package.   
 See detail: [BayesR](https://dougspeed.com/megaprs/)   
